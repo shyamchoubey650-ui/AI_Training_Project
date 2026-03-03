@@ -4,6 +4,7 @@
 import streamlit as st
 import joblib
 
+
 st.set_page_config(page_title="Email Spam Detector", page_icon="📧")
 
 # Load model
